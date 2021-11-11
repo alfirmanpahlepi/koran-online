@@ -1,9 +1,9 @@
-import Layout from "../components/Layout";
-import NewsCardLg from "../components/NewsCardLg";
-import NewsCardXl from "../components/NewsCardXl";
-import NewsCard2xl from "../components/NewsCard2xl";
+import Layout from "@/components/Layout";
+import NewsCardLg from "@/components/NewsCardLg";
+import NewsCardXl from "@/components/NewsCardXl";
+import NewsCard2xl from "@/components/NewsCard2xl";
 
-export default function Home() {
+export default function Covid19() {
   return (
     <Layout>
       <div className="flex flex-col-reverse sm:flex-row md:flex-col-reverse lg:flex-row sm:space-x-4 md:space-x-0 lg:space-x-6">

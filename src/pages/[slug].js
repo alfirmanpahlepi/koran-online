@@ -5,8 +5,8 @@ import {
   PinterestIcon,
   TwitterIcon,
   WhatsappIcon,
-} from "../components/icon";
-import Layout from "../components/Layout";
+} from "@/components/icon";
+import Layout from "@/components/Layout";
 
 export default function NewsDetail() {
   return (

@@ -1,5 +1,5 @@
-import Layout from "../components/Layout";
-import NewsCardXl from "../components/NewsCardXl";
+import Layout from "@/components/Layout";
+import NewsCardXl from "@/components/NewsCardXl";
 
 export default function Search() {
   return (
